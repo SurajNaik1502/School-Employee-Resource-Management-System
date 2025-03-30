@@ -1,0 +1,10 @@
+{
+  "/page": "app/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/employees/page": "app/employees/page.js",
+  "/attendance/page": "app/attendance/page.js",
+  "/timetable/page": "app/timetable/page.js",
+  "/tasks/page": "app/tasks/page.js",
+  "/communication/page": "app/communication/page.js",
+  "/settings/page": "app/settings/page.js"
+}
